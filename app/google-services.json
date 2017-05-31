@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "606763093348",
+    "firebase_url": "https://frenchhackaton.firebaseio.com",
+    "project_id": "frenchhackaton",
+    "storage_bucket": "frenchhackaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606763093348:android:3cfdcc0a6196fc50",
+        "android_client_info": {
+          "package_name": "com.oyinloyeayodeji.www.frenchhackaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606763093348-m0q48r55o52a6f5moeolhegvcffaetac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oyinloyeayodeji.www.frenchhackaton",
+            "certificate_hash": "f8522e39117f6f236e8f5e6dee25afc8b4d3bf25"
+          }
+        },
+        {
+          "client_id": "606763093348-4e23otmq3476m2grfu92k7e8tpt5o6hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoy8EkyhTqXM5Hj0WHa982PQKvUaPGxtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606763093348-4e23otmq3476m2grfu92k7e8tpt5o6hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

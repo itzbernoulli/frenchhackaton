@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apprendre</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">LogOut</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="auth_failed">Authentication failed</string>
+</resources>
